@@ -3,7 +3,7 @@
 
 ### Link to Tableau story
 
-[https://public.tableau.com/profile/enrique.bustamante#!/vizhome/CitibikeChallengeAnalysis/ChallengeAnalysis?publish=yes](https://public.tableau.com/profile/enrique.bustamante#!/vizhome/CitibikeChallengeAnalysis/ChallengeAnalysis?publish=yes "Link to storyboard")
+[Tableau Challenge Link](https://public.tableau.com/profile/enrique.bustamante#!/vizhome/CitibikeChallengeAnalysis/ChallengeAnalysis?publish=yes)
 
 
 ### Purpose
